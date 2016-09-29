@@ -1,0 +1,50 @@
+CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+body{
+	font-family: 'Amatic SC', cursive;
+	border-width: 5px;
+	border-color: black;
+	border: solid;
+	width: 460px;
+	padding: 5px;
+	/*text-align: center;*/
+}
+
+img {
+	height: 100px;
+	width: 100px;
+	margin: 5px;
+	/*display: inline-block;*/
+	vertical-align: middle;
+	/*margin-top: 10px;*/
+}
+
+.hero {
+	position: absolute;
+	top: 20px;
+}
+
+p { 
+	font-size: 12px;
+}
+
+a {
+	display: block;
+	font-size: 12px;
+	text-align: right;
+}
+
+h1 {
+	margin: 20px 0 5px 140px;
+	position: absolute;
+}
+
+h2 {
+	margin: 40px 0 5px 190px;
+	display: inline-block;
+
+}
